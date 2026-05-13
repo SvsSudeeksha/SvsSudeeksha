@@ -24,8 +24,8 @@ To build a long-term career in research and high-level engineering, I am strengt
 ---
 
 ### 📝 Documentation & Proof of Work
-I believe in "Building in Public." You can track my daily progress, course notes, and lab summaries in my dedicated repository:
-👉 **[Cyber-Foundations Portfolio](./Cyber-Foundations)**
+I believe in **Building in Public**. You can track my daily progress, course notes, and lab summaries in my dedicated repository:
+👉 **[Cyber-Foundations Portfolio](https://github.com/SvsSudeeksha/Cyber-Foundations)**
 
 ---
 
