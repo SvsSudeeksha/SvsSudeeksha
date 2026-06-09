@@ -1,36 +1,65 @@
 # Sudeeksha Somayajula 👋
-**B.Tech in Computer Science Engineering, Andhra University (Result Awaited)** | 
-*Transitioning into Cybersecurity | GATE 2027 Aspirant*
+
+**B.Tech in Computer Science & Engineering, Andhra University (CGPA: 8.47/10)**
+*Aspiring Cybersecurity Professional | ISC2 CC Candidate | GATE 2027 Aspirant*
 
 ---
 
-### 🛡️ Professional Profile
-I am a Computer Science graduate currently specializing in **Cybersecurity and Network Defense**. My approach combines a deep-dive into core CS fundamentals (OS, DBMS, Networks) with hands-on laboratory practice in security operations.
+## 🛡️ About Me
 
-### 📈 Current Learning & Certification Roadmap
-I am currently following a disciplined 8-hour daily study plan to bridge the gap between academic theory and professional security practice.
+I recently completed my B.Tech in Computer Science & Engineering from Andhra University with a CGPA of **8.47/10**. My current focus is on building strong foundations in **Cybersecurity, Computer Networks, Operating Systems, and Secure Software Development** while preparing for industry certifications and advanced technical studies.
 
-- **ISC2 Certified in Cybersecurity (CC):** Candidate (Exam scheduled for July 18, 2026).
-- **Cisco Networking Academy:** Completing *Introduction to Cybersecurity*.
-- **TryHackMe:** Actively working through the *Pre-Security* learning path.
-
-### 🎓 GATE 2027 & Technical Deep-Dives
-To build a long-term career in research and high-level engineering, I am strengthening my foundations in:
-- **Operating Systems:** Process synchronization, memory management, and file systems.
-- **Computer Networks:** Full understanding of the OSI Model and TCP/IP suite.
-- **DBMS:** Relational algebra, SQL, and database security principles.
-- **DSA:** Strengthening logical problem-solving through daily manual coding exercises.
+I enjoy combining theoretical knowledge with hands-on practice through security labs, networking exercises, and technical projects.
 
 ---
 
-### 📝 Documentation & Proof of Work
-I believe in **Building in Public**. You can track my daily progress, course notes, and lab summaries in my dedicated repository:
-👉 **[Cyber-Foundations Portfolio](https://github.com/SvsSudeeksha/Cyber-Foundations)**
+## 📚 Current Learning Journey
+
+* **ISC2 Certified in Cybersecurity (CC)** — Exam scheduled for July 18, 2026
+* **Cisco Networking Academy** — Introduction to Cybersecurity
+* **TryHackMe** — Pre-Security Learning Path
+* Building foundational knowledge in:
+
+  * Operating Systems
+  * Computer Networks
+  * Database Management Systems (DBMS)
+  * Data Structures & Algorithms (DSA)
+  * Cybersecurity Fundamentals
 
 ---
 
-### 💼 Professional Links
-- 📍 **Location:** Visakhapatnam, Andhra Pradesh
-- 🌐 **LinkedIn:** [linkedin.com/in/sudeeksha-somayajula](https://linkedin.com/in/sudeeksha-somayajula)
-- 👾 **TryHackMe Profile:** [SvsSudeeksha](https://tryhackme.com/p/sudeekshasomayajula)
-- ✉️ **Email:** sudeekshasomayajula@gmail.com
+## 🚀 Featured Project
+
+### AdviserAI
+
+A team-based final year project focused on helping organizations evaluate their readiness for AI adoption through a structured Decision Support System (DSS).
+
+**My Contributions**
+
+* Researched and evaluated technology adoption frameworks including TOE, DOI, and UTAUT.
+* Designed the assessment methodology, scoring framework, and decision-making workflow.
+* Led project documentation, report preparation, and technical content development.
+* Coordinated project activities, requirement discussions, and team deliverables throughout the development lifecycle.
+* Contributed to the design of recommendation and evaluation mechanisms used within the system.
+
+
+---
+
+## 📝 Learning Portfolio
+
+I believe in documenting my learning journey and maintaining public records of my progress.
+
+**Cyber-Foundations Portfolio**
+Repository: https://github.com/SvsSudeeksha/Cyber-Foundations
+
+---
+
+## 💼 Connect With Me
+
+📍 Visakhapatnam, Andhra Pradesh, India
+
+🔗 LinkedIn: https://linkedin.com/in/sudeeksha-somayajula
+
+👾 TryHackMe: https://tryhackme.com/p/sudeekshasomayajula
+
+📧 Email: [sudeekshasomayajula@gmail.com](mailto:sudeekshasomayajula@gmail.com)
