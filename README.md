@@ -15,11 +15,9 @@ I enjoy combining analytical system design with hands-on development practices, 
 ## 📚 Current Learning Journey
 
 * **ISC2 Certified in Cybersecurity (CC)** — Exam scheduled for July 18, 2026
-* **Cisco Networking Academy** — Introduction to Cybersecurity
 * **TryHackMe** — Pre-Security Learning Path
 * Deepening core application development principles:
   * Data Structures & Algorithms (DSA)
-  * Object-Oriented Programming (OOP)
   * Database Management Systems (DBMS)
   * Operating Systems & Network Security
 
